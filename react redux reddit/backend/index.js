@@ -1,6 +1,9 @@
 const express = require("express");
 const app = express();
+const cors = require("cors");
+
 app.use(express.json());
+app.use(cors());
 
 app.post("/v1/update", (req, res) => {
   setTimeout(() => {
