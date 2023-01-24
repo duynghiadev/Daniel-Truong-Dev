@@ -4,4 +4,4 @@
 
 ## Youtube
 
-[Thanh Cong - Front End](https://www.youtube.com/watch?v=-CA_BdL9tI0)
+This project I followed this video [Thanh Cong - Front End](https://www.youtube.com/watch?v=-CA_BdL9tI0)

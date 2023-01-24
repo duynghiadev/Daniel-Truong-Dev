@@ -26,18 +26,6 @@ Spotify is deployed at [Vercel](https://vercel.com/) and can be accessed by clic
 
 [![React Redux](https://img.shields.io/badge/Redux-4.1.2-red)](#)
 
-## Contributors
-
-<a href="https://github.com/jessej-samuel/spotipy/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=jessej-samuel/spotipy" />
-</a>
-
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-Spotify is an MIT Licensed web application.
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/jessej-samuel/spotipy/blob/master/LICENSE)
